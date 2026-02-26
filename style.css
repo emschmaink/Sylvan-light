@@ -84,27 +84,30 @@ nav a {
   font-size: 16px;
 }
 
-/* Sale Banner */
+/* Header Icons */
+.header-icons img {
+  width: 22px;
+  height: auto;
+  margin: 0 10px;
+  cursor: pointer;
+  transition: opacity .3s ease;
+}
+
+.header-icons img:hover {
+  opacity: 0.7;
+}
+
+/* Sale Banner Image */
 .sale-banner {
-  border: 2px solid var(--sage);
-  padding: 35px 20px;
-  margin-bottom: 30px;
-  background: #fffaf2;
+  margin: 40px 0 25px;
 }
 
-.sale-banner h2 {
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 36px;
-}
-
-.sale-banner h3 {
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 26px;
-  margin: 10px 0;
-}
-
-.sale-banner p {
-  font-size: 14px;
+.sale-banner img {
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 /* Buttons */
