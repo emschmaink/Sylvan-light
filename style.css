@@ -81,12 +81,12 @@ nav a {
 /* Intro */
 .intro {
   margin-bottom: 40px;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 /* Header Icons */
 .header-icons img {
-  width: 22px;
+  width: 30px;
   height: auto;
   margin: 0 10px;
   cursor: pointer;
@@ -154,14 +154,14 @@ nav a {
 
 .product h3 {
   font-family: 'Cormorant Garamond', serif;
-  font-size: 28px;
+  font-size: 30px;
   margin-bottom: 10px;
 }
 
 .product p {
   max-width: 650px;
   margin: 0 auto 20px;
-  font-size: 20px;
+  font-size: 25px;
   line-height: 1.6;
 }
 
@@ -215,7 +215,7 @@ footer {
   }
 
   .logo {
-    font-size: 26px;
+    font-size: 25px;
   }
 
 }
